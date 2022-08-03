@@ -5,4 +5,4 @@
 
 ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpstrommen&count_private=true&show_icons=true&theme=dark)
 
-### Check out [my website](https://christian.strommen.dev/) or take a look at my work with [LibreCS](https://github.com/LibreCS)
+### Check out [my website](https://christian.strommen.dev/) or contribute to my projects with [LibreCS](https://github.com/LibreCS)
