@@ -5,4 +5,4 @@
 
 
 
-Check out [my website](https://christian.strommen.dev/) or contribute to our projects on [LibreCS](https://librecs.com/)
+Check out [my website](https://christian.strommen.dev/)
